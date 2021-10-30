@@ -7,6 +7,6 @@
 ## What you can find in this repository
 | Topic Name|
 |  :--------: | 
-| [Variable]()|
-| [IfElse]()|
+| [Variable](https://github.com/i-nishi/Java-Basics/tree/main/Variable)|
+| [IfElse](https://github.com/i-nishi/Java-Basics/tree/main/IfElse)|
 
